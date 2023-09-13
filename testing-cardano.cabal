@@ -77,7 +77,7 @@ test-suite testing-cardano-test
     main-is:          Main.hs
 
     -- Test dependencies.
-    build-depends:    base ^>=4.17.2.0
+    build-depends:    base ^>=4.15.1.0
 
     -- library for unit tests of Plutus scripts.
 source-repository-package
