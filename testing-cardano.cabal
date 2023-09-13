@@ -77,4 +77,4 @@ test-suite testing-cardano-test
     main-is:          Main.hs
 
     -- Test dependencies.
-    build-depends:    base ^>=4.16.4.0
+    build-depends:    base ^>=4.17.2.0
