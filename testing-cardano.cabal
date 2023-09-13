@@ -78,3 +78,8 @@ test-suite testing-cardano-test
 
     -- Test dependencies.
     build-depends:    base ^>=4.17.2.0
+
+    -- library for unit tests of Plutus scripts.
+source-repository-package
+   location: https://github.com/mlabs-haskell/plutus-simple-model
+   tag: 90b7dd1127698b818a056648dc68d41b0df2793d
